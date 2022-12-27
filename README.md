@@ -1,5 +1,5 @@
-[challenge-1000]: Challenges-Beecrowd/_1000/
-[challenge-1001]: Challenges-Beecrowd/_1001/
+[challenge-1000]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1000
+[challenge-1001]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1001
 
 # Beecrowd's challenge
 
