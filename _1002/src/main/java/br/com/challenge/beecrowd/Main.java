@@ -14,6 +14,7 @@ public class Main {
         valorDoRaio = Double.parseDouble(scanner.next());
         Double result = calcularArea(valorDoRaio, valorDePi);
         String resultado  = String.format("%.4f",result).replace(",", ".");
+        scanner.close();
 
         System.out.println("A=" + resultado);
 

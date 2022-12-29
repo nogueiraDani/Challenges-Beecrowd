@@ -12,10 +12,12 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         numberA = scanner.nextInt();
         numberB = scanner.nextInt();
+        scanner.close();
 
         Integer sum = Integer.sum(numberA, numberB);
         String message = "SOMA = ";
 
         System.out.println(message + sum);
+
     }
 }
