@@ -4,6 +4,7 @@
 [challenge-1003]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1003
 [challenge-1004]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1004
 [challenge-1005]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1005
+[challenge-1006]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1006
 
 
 # Beecrowd's challenge
@@ -19,3 +20,4 @@
   * [1003 - Simple Sum][challenge-1003]
   * [1004 - Simple Product][challenge-1004]
   * [1005 - Average 1][challenge-1005]
+  * [1006 - Average 2][challenge-1006]
