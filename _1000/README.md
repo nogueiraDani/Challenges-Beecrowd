@@ -1,13 +1,12 @@
 # Challenge 1000
 
-**Entrada**
+**Input**
 
-Este problema não possui nenhuma entrada.
+This problem has no input.
 
-**Saída**
+**Output**
 
-
-Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, conforme o exemplo abaixo.
+You must print the message Hello World! and then the endline as shown below.
 
 
 

@@ -10,8 +10,8 @@
 ---
 
 * Beginner 🍼
-  * [1000][challenge-1000]
-  * [1001][challenge-1001]
-  * [1002][challenge-1002]
-  * [1003][challenge-1003]
+  * [1000 - Hello World!][challenge-1000]
+  * [1001 - Extremely Basic][challenge-1001]
+  * [1002 - Area of a Circle][challenge-1002]
+  * [1003 - Simple Sum][challenge-1003]
 
