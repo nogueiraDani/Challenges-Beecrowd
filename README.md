@@ -1,5 +1,6 @@
 [challenge-1000]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1000
 [challenge-1001]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1001
+[challenge-1002]: https://github.com/nogueiraDani/Challenges-Beecrowd/tree/main/_1002
 
 # Beecrowd's challenge
 
@@ -10,4 +11,5 @@
 * Beginner 🍼
   * [1000][challenge-1000]
   * [1001][challenge-1001]
+  * [1002][challenge-1002]
 
